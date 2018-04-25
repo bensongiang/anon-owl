@@ -1,0 +1,290 @@
+item,sku,description,min_unit_value,unit_value,unit_type,code,wholesale_price,direct_price,retail_price,commissionable,price_type
+Videotape,TRX-TPE-000,Videotapes,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Videotape - 8MM,TRX-TPE-001,8mm Videotape,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Videotape - Beta,TRX-TPE-002,Beta Videotape,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Videotape - DVD Disc,TRX-TPE-003,DVD Video,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Videotape - MiniDV,TRX-TPE-004,MiniDV Videotape,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Videotape - MiniDVD Disc,TRX-TPE-005,MiniDVD Video,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Videotape - Other,TRX-TPE-006,Other Videotape,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Videotape - VHS,TRX-TPE-007,VHS Videotape,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Videotape - VHS-C,TRX-TPE-008,VHS-C Videotape,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+"Film - 3"" Super8 reel",TRX-FLM-S03,"3"" Super8 Movie Film",,,reels,"",12.5,12.5,12.5,true,varied
+"Film - 4"" Super8 reel",TRX-FLM-S04,"4"" Super8 Movie Film",,,reels,"",25.0,25.0,25.0,true,varied
+"Film - 5"" Super8 reel",TRX-FLM-S05,"5"" Super8 Movie Film",,,reels,"",50.0,50.0,50.0,true,varied
+"Film - 6"" Super8 reel",TRX-FLM-S06,"6"" Super8 Movie Film",,,reels,"",75.0,75.0,75.0,true,varied
+"Film - 7"" Super8 reel",TRX-FLM-S07,"7"" Super8 Movie Film",,,reels,"",100.0,100.0,100.0,true,varied
+"Film - 8"" Super8 reel",TRX-FLM-S08,"8"" Super8 Movie Film",,,reels,"",150.0,150.0,150.0,true,varied
+"Film - 9"" Super8 reel",TRX-FLM-S09,"9"" Super8 Movie Film",,,reels,"",175.0,175.0,175.0,true,varied
+"Film - 10"" Super8 reel",TRX-FLM-S10,"10"" Super8 Movie Film",,,reels,"",200.0,200.0,200.0,true,varied
+"Film - 11"" Super8 reel",TRX-FLM-S11,"11"" Super8 Movie Film",,,reels,"",250.0,250.0,250.0,true,varied
+"Film - 12"" Super8 reel",TRX-FLM-S12,"12"" Super8 Movie Film",,,reels,"",300.0,300.0,300.0,true,varied
+"Film - 14"" Super8 reel",TRX-FLM-S14,"14"" Super8 Movie Film",,,reels,"",400.0,400.0,400.0,true,varied
+"Film - 15"" Super8 reel",TRX-FLM-S15,"15"" Super8 Movie Film",,,reels,"",500.0,500.0,500.0,true,varied
+"Film - 3"" 8mm reel",TRX-FLM-R03,"3"" 8mm Movie Film",,,reels,"",12.5,12.5,12.5,true,varied
+"Film - 4"" 8mm reel",TRX-FLM-R04,"4"" 8mm Movie Film",,,reels,"",25.0,25.0,25.0,true,varied
+"Film - 5"" 8mm reel",TRX-FLM-R05,"5"" 8mm Movie Film",,,reels,"",50.0,50.0,50.0,true,varied
+"Film - 6"" 8mm reel",TRX-FLM-R06,"6"" 8mm Movie Film",,,reels,"",75.0,75.0,75.0,true,varied
+"Film - 7"" 8mm reel",TRX-FLM-R07,"7"" 8mm Movie Film",,,reels,"",100.0,100.0,100.0,true,varied
+"Film - 8"" 8mm reel",TRX-FLM-R08,"8"" 8mm Movie Film",,,reels,"",150.0,150.0,150.0,true,varied
+"Film - 10"" 8mm reel",TRX-FLM-R10,"10"" 8mm Movie Film",,,reels,"",200.0,200.0,200.0,true,varied
+"Film - 12"" 8mm reel",TRX-FLM-R12,"12"" 8mm Movie Film",,,reels,"",300.0,300.0,300.0,true,varied
+"Film - 14"" 8mm reel",TRX-FLM-R14,"14"" 8mm Movie Film",,,reels,"",400.0,400.0,400.0,true,varied
+"Film - 15"" 8mm reel",TRX-FLM-R15,"15"" 8mm Movie Film",,,reels,"",500.0,500.0,500.0,true,varied
+"Film - 3"" 16mm reel",TRX-FLM-T03,"3"" 16mm Movie Film",,,reels,"",12.5,12.5,12.5,true,varied
+"Film - 4"" 16mm reel",TRX-FLM-T04,"4"" 16mm Movie Film",,,reels,"",25.0,25.0,25.0,true,varied
+"Film - 5"" 16mm reel",TRX-FLM-T05,"5"" 16mm Movie Film",,,reels,"",50.0,50.0,50.0,true,varied
+"Film - 6"" 16mm reel",TRX-FLM-T06,"6"" 16mm Movie Film",,,reels,"",75.0,75.0,75.0,true,varied
+"Film - 7"" 16mm reel",TRX-FLM-T07,"7"" 16mm Movie Film",,,reels,"",100.0,100.0,100.0,true,varied
+"Film - 8"" 16mm reel",TRX-FLM-T08,"8"" 16mm Movie Film",,,reels,"",150.0,150.0,150.0,true,varied
+"Film - 10"" 16mm reel",TRX-FLM-T10,"10"" 16mm Movie Film",,,reels,"",200.0,200.0,200.0,true,varied
+"Film - 12"" 16mm reel",TRX-FLM-T12,"12"" 16mm Movie Film",,,reels,"",300.0,300.0,300.0,true,varied
+"Film - 14"" 16mm reel",TRX-FLM-T14,"14"" 16mm Movie Film",,,reels,"",400.0,400.0,400.0,true,varied
+"Film - 15"" 16mm reel",TRX-FLM-T15,"15"" 16mm Movie Film",,,reels,"",500.0,500.0,500.0,true,varied
+Album Scan - Album,TRX-BLK-000,Memory Factory: Photo Albums & Scrapbooks,,24,pages,"",40.0,40.0,40.0,true,varied
+Album Scan - Additional Pages,TRX-BLK-001,Album Scan - Additional Pages,,,pages,"",1.5,1.5,1.5,true,varied
+Images - Slides,TRX-SLD-080,Slides,,50,images,"",25.0,25.0,25.0,true,varied
+Images - Additional Slides,TRX-SLD-001,Slide Scan - Additional Slides,,,images,"",0.5,0.5,0.5,true,varied
+Images - Prints,TRX-PRT-080,Photo Prints,,50,images,"",25.0,25.0,25.0,true,varied
+Images - Additional Prints,TRX-PRT-001,Photo Scan - Additional Images,,,images,"",0.5,0.5,0.5,true,varied
+Images - Negatives,TRX-NEG-080,Negatives,,50,images,"",25.0,25.0,25.0,true,varied
+Images - Additional Negatives,TRX-NEG-001,Negative Scan - Additional Negatives,,,images,"",0.5,0.5,0.5,true,varied
+Digital Media,TRX-DMI-000,Digital Media,,,,"",25.0,25.0,25.0,true,varied
+Starter Kit - Legacy Launch Kit,TRX-STRT-001,Legacy Launch Kit,,,,"",300.0,300.0,300.0,false,varied
+Rush Charge,CHG-SUR-RSH,Rush Order,,,,"",9.0,9.0,9.0,false,varied
+Shipping - UPS Ground Shipping,CHG-SUR-SHP,Ground Shipping,,,,"",15.0,15.0,15.0,false,varied
+DVD Output - Included DVD Output,PRO-DVD-INC,Included DVD,,1,discs,"",0.0,0.0,0.0,false,varied
+DVD Output - Additional DVD Output,PRO-DVD-ADD,Additional DVD,,,discs,"",12.5,12.5,12.5,true,varied
+Cloud Output,PRO-CLD-000,Online Viewing,,,,"",0.0,0.0,0.0,false,varied
+USB Output - USB Output,PRO-USB-ADD,USB output,,1,,"",12.5,12.5,12.5,true,varied
+Disc Title,TRX-TTL-001,Disc Title,,,,"",0.0,0.0,0.0,false,varied
+Disc Theme - Standard,TRX-THM-000,Standard,,,,"",0.0,0.0,0.0,false,varied
+Disc Music - Actual Audio,MIS-BMU-AAU,Actual Audio,,,,"",0.0,0.0,0.0,false,varied
+Disc Music - No Music,MIS-BMU-NOM,No Music,,,,"",0.0,0.0,0.0,false,varied
+Cloud Output - Cloud Addon Output,ADD-CLD-000,Online Viewing,,,,"",0.0,0.0,0.0,false,varied
+Shipping Packages - Slide Box,EMP-SUP-SBX,Legacy Republic Slide Box,,6,boxes,"",0.0,0.0,0.0,false,varied
+DVD Output - DVD Copy,PRO-DVD-CPY,DVD Copy,,,discs,"",12.5,12.5,12.5,true,varied
+Film - Film transfer to DVD,TRX-FLM-000,Movie Film,,,reels,"",0.0,0.0,0.0,false,varied
+Tape Repair,PRO-TPE-CAS,Tape Repair/Replacement,,,,"",0.0,0.0,0.0,false,varied
+Shipping - UPS Ground Shipping Label,CHG-UPS-GRD,UPS Ground Shipping Label,,,,"",0.0,0.0,0.0,false,varied
+Videotape - Videotape Transfer to CLOUD,TRX-TPE-C00,Videotapes,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Videotape - 8MM,TRX-TPE-C01,8mm Videotape,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Videotape - Beta,TRX-TPE-C02,Beta Videotape,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Videotape - DVD Disc,TRX-TPE-C03,DVD Video,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Videotape - MiniDV,TRX-TPE-C04,MiniDV Videotape,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Videotape - MiniDVD Disc,TRX-TPE-C05,MiniDVD Video,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Videotape - Other,TRX-TPE-C06,Other Videotape,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Videotape - VHS,TRX-TPE-C07,VHS Videotape,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Videotape - VHS-C,TRX-TPE-C08,VHS-C Videotape,,,two_hours_block,"",0.0,0.0,0.0,true,varied
+Film - Film Transfer to CLOUD,TRX-FLC-000,Movie Film,,,reels,"",0.0,0.0,0.0,false,varied
+Film - 3 Super8 reel,TRX-FLC-S03,"3"" Super8 Movie Film",,,reels,"",12.5,12.5,12.5,true,varied
+Film - 4 Super8 reel,TRX-FLC-S04,"4"" Super8 Movie Film",,,reels,"",25.0,25.0,25.0,true,varied
+Film - 5 Super8 reel,TRX-FLC-S05,"5"" Super8 Movie Film",,,reels,"",50.0,50.0,50.0,true,varied
+Film - 6 Super8 reel,TRX-FLC-S06,"6"" Super8 Movie Film",,,reels,"",75.0,75.0,75.0,true,varied
+Film - 7 Super8 reel,TRX-FLC-S07,"7"" Super8 Movie Film",,,reels,"",100.0,100.0,100.0,true,varied
+Film - 8 Super8 reel,TRX-FLC-S08,"8"" Super8 Movie Film",,,reels,"",150.0,150.0,150.0,true,varied
+Film - 10 Super8 reel,TRX-FLC-S10,"10"" Super8 Movie Film",,,reels,"",200.0,200.0,200.0,true,varied
+Film - 12 Super8 reel,TRX-FLC-S12,"12"" Super8 Movie Film",,,reels,"",300.0,300.0,300.0,true,varied
+Film - 14 Super8 reel,TRX-FLC-S14,"14"" Super8 Movie Film",,,reels,"",400.0,400.0,400.0,true,varied
+Film - 15 Super8 reel,TRX-FLC-S15,"15"" Super8 Movie Film",,,reels,"",500.0,500.0,500.0,true,varied
+Film - 3 8mm reel,TRX-FLC-R03,"3"" 8mm Movie Film",,,reels,"",12.5,12.5,12.5,true,varied
+Film - 4 8mm reel,TRX-FLC-R04,"4"" 8mm Movie Film",,,reels,"",25.0,25.0,25.0,true,varied
+Film - 5 8mm reel,TRX-FLC-R05,"5"" 8mm Movie Film",,,reels,"",50.0,50.0,50.0,true,varied
+Film - 6 8mm reel,TRX-FLC-R06,"6"" 8mm Movie Film",,,reels,"",75.0,75.0,75.0,true,varied
+Film - 7 8mm reel,TRX-FLC-R07,"7"" 8mm Movie Film",,,reels,"",100.0,100.0,100.0,true,varied
+Film - 8 8mm reel,TRX-FLC-R08,"8"" 8mm Movie Film",,,reels,"",150.0,150.0,150.0,true,varied
+Film - 10 8mm reel,TRX-FLC-R10,"10"" 8mm Movie Film",,,reels,"",200.0,200.0,200.0,true,varied
+Film - 12 8mm reel,TRX-FLC-R12,"12"" 8mm Movie Film",,,reels,"",300.0,300.0,300.0,true,varied
+Film - 14 8mm reel,TRX-FLC-R14,"14"" 8mm Movie Film",,,reels,"",400.0,400.0,400.0,true,varied
+Film - 15 8mm reel,TRX-FLC-R15,"15"" 8mm Movie Film",,,reels,"",500.0,500.0,500.0,true,varied
+Film - 3 16mm reel,TRX-FLC-T03,"3"" 16mm Movie Film",,,reels,"",12.5,12.5,12.5,true,varied
+Film - 4 16mm reel,TRX-FLC-T04,"4"" 16mm Movie Film",,,reels,"",25.0,25.0,25.0,true,varied
+Film - 5 16mm reel,TRX-FLC-T05,"5"" 16mm Movie Film",,,reels,"",50.0,50.0,50.0,true,varied
+Film - 6 16mm reel,TRX-FLC-T06,"6"" 16mm Movie Film",,,reels,"",75.0,75.0,75.0,true,varied
+Film - 7 16mm reel,TRX-FLC-T07,"7"" 16mm Movie Film",,,reels,"",100.0,100.0,100.0,true,varied
+Film - 8 16mm reel,TRX-FLC-T08,"8"" 16mm Movie Film",,,reels,"",150.0,150.0,150.0,true,varied
+Film - 10 16mm reel,TRX-FLC-T10,"10"" 16mm Movie Film",,,reels,"",200.0,200.0,200.0,true,varied
+Film - 12 16mm reel,TRX-FLC-T12,"12"" 16mm Movie Film",,,reels,"",300.0,300.0,300.0,true,varied
+Film - 14 16mm reel,TRX-FLC-T14,"14"" 16mm Movie Film",,,reels,"",400.0,400.0,400.0,true,varied
+Film - 15 16mm reel,TRX-FLC-T15,"15"" 16mm Movie Film",,,reels,"",500.0,500.0,500.0,true,varied
+Images - Slides to CLOUD,TRX-SLD-C80,Slides,,50,images,"",25.0,25.0,25.0,true,varied
+Images - Prints to CLOUD,TRX-PRT-C80,Photo Prints,,50,images,"",25.0,25.0,25.0,true,varied
+Images - Negatives to CLOUD,TRX-NEG-C80,Negatives,,50,images,"",25.0,25.0,25.0,true,varied
+Digital Media - Digital Media Transfer to CLOUD,TRX-DMI-C00,Digital Media,,,,"",25.0,25.0,25.0,true,varied
+DVD Output - Custom DVD,PRO-DVD-CMP,Family Legacy DVD,,,discs,"",12.5,12.5,12.5,true,varied
+Digital Media - Mini DVD to DVD,TRX-DMI-MND,MiniDVD,,,,"",25.0,25.0,25.0,true,varied
+Digital Media - Mini DVD to Cloud,TRX-DMI-CMN,MiniDVD,,,,"",25.0,25.0,25.0,true,varied
+Images - Slides,TRX-SLD-C01,Slide Scan - Additional Slides,,,,"",0.5,0.5,0.5,true,varied
+Images - Prints,TRX-PRT-C01,Photo Scan - Additional Images,,,,"",0.5,0.5,0.5,true,varied
+Images - Negatives,TRX-NEG-C01,Negative Scan - Additional Negatives,,,,"",0.5,0.5,0.5,true,varied
+Memory Box - Memory Box - Starter,PRO-BOX-001,Shoebox Kit,,,,"",100.0,100.0,100.0,true,varied
+Memory Box - Memory Box - Deluxe,PRO-BOX-002,Drawer Kit,,,,"",250.0,250.0,250.0,true,varied
+Memory Box - Memory Box - Preservation,PRO-BOX-003,Closet Kit,,,,"",500.0,500.0,500.0,true,varied
+"Film - 9"" 8mm reel",TRX-FLC-R09,"9"" 8mm Movie Film",,,reels,"",175.0,175.0,175.0,true,varied
+"Film - 9"" 8mm reel",TRX-FLM-R09,"9"" 8mm Movie Film",,,reels,"",175.0,175.0,175.0,true,varied
+"Film - 11"" 8mm reel",TRX-FLC-R11,"11"" 8mm Movie Film",,,reels,"",250.0,250.0,250.0,true,varied
+"Film - 11"" 8mm reel",TRX-FLM-R11,"11"" 8mm Movie Film",,,reels,"",250.0,250.0,250.0,true,varied
+"Film - 9"" 16mm reel",TRX-FLC-T09,"9"" 16mm Movie Film",,,reels,"",175.0,175.0,175.0,true,varied
+"Film - 9"" 16mm reel",TRX-FLM-T09,"9"" 16mm Movie Film",,,reels,"",175.0,175.0,175.0,true,varied
+"Film - 11"" 16mm reel",TRX-FLC-T11,"11"" 16mm Movie Film",,,reels,"",250.0,250.0,250.0,true,varied
+"Film - 11"" 16mm reel",TRX-FLM-T11,"11"" 16mm Movie Film",,,reels,"",250.0,250.0,250.0,true,varied
+"Film - 9"" Super8 reel",TRX-FLC-S09,"9"" Super8 Movie Film",,,reels,"",175.0,175.0,175.0,true,varied
+"Film - 11"" Super8 reel",TRX-FLC-S11,"11"" Super8 Movie Film",,,reels,"",250.0,250.0,250.0,true,varied
+Shipping Packages - Safe Shipping Pack Photo Albums,EMP-SUP-SPA,Safe Shipping Pack - Photo Albums,,1,bundle,"",0.0,0.0,0.0,false,varied
+Shipping Packages - Safe Shipping Pack Large Shipments,EMP-SUP-SLA,Safe Shipping Pack - Large Shipments,,1,bundle,"",0.0,0.0,0.0,false,varied
+Shipping Packages - Safe Shipping Pack Small Shipments,EMP-SUP-SSS,Safe Shipping Pack - Small Shipments,,1,bundle,"",0.0,0.0,0.0,false,varied
+Host Collateral - Opportunity Sheets,EMP-SUP-LMO,LM Opportunity Sheets,,25,pack_of,"",0.0,0.0,0.0,false,varied
+Order Forms - Order Forms,EMP-SUP-POF,Digitization 2-Part Order Form,,25,pack_of,"",0.0,0.0,0.0,false,varied
+"Legacy on Canvas - Legacy on Canvas - 11"" x 14"" landscape (1.5"" thickness)",KPS-CAN-001,"Legacy on Canvas - 11"" x 14"" landscape (1.5"" thickness)",,,,"",90.0,90.0,90.0,true,varied
+"Legacy on Canvas - Legacy on Canvas - 11"" x 14"" portrait (1.5"" thickness)",KPS-CAN-002,"Legacy on Canvas - 11"" x 14"" portrait (1.5"" thickness)",,,,"",90.0,90.0,90.0,true,varied
+"Legacy on Canvas - Legacy on Canvas - 12"" x 12"" square (1.5"" thickness)",KPS-CAN-003,"Legacy on Canvas - 12"" x 12"" square (1.5"" thickness)",,,,"",90.0,90.0,90.0,true,varied
+"Legacy on Canvas - Legacy on Canvas - 16"" x 20"" landscape (1.5"" thickness)",KPS-CAN-004,"Legacy on Canvas - 16"" x 20"" landscape (1.5"" thickness)",,,,"",100.0,100.0,100.0,true,varied
+"Legacy on Canvas - Legacy on Canvas - 16"" x 20"" portrait (1.5"" thickness)",KPS-CAN-005,"Legacy on Canvas - 16"" x 20"" portrait (1.5"" thickness)",,,,"",100.0,100.0,100.0,true,varied
+"Legacy on Canvas - Legacy on Canvas - 8"" x 10"" portrait (1.5"" thickness)",KPS-CAN-006,"Legacy on Canvas - 8"" x 10"" portrait (1.5"" thickness)",,,,"",70.0,70.0,70.0,true,varied
+"Legacy on Canvas - Legacy on Canvas - 8"" x 10"" landscape (1.5"" thickness)",KPS-CAN-007,"Legacy on Canvas - 8"" x 10"" landscape (1.5"" thickness)",,,,"",70.0,70.0,70.0,true,varied
+"Legacy on Canvas - Legacy on Canvas - 11"" x 14"" landscape (0.75"" thickness)",KPS-CAN-008,"Legacy on Canvas - 11"" x 14"" landscape (0.75"" thickness)",,,,"",85.0,85.0,85.0,true,varied
+"Legacy on Canvas - Legacy on Canvas - 11"" x 14"" portrait (0.75"" thickness)",KPS-CAN-009,"Legacy on Canvas - 11"" x 14"" portrait (0.75"" thickness)",,,,"",85.0,85.0,85.0,true,varied
+"Legacy on Canvas - Legacy on Canvas - 12"" x 12"" square (0.75"" thickness)",KPS-CAN-010,"Legacy on Canvas - 12"" x 12"" square (0.75"" thickness)",,,,"",85.0,85.0,85.0,true,varied
+"Legacy on Canvas - Legacy on Canvas - 8"" x 10"" portrait (0.75"" thickness)",KPS-CAN-011,"Legacy on Canvas - 8"" x 10"" portrait (0.75"" thickness)",,,,"",65.0,65.0,65.0,true,varied
+"Legacy on Canvas - Legacy on Canvas - 8"" x 10"" landscape (0.75"" thickness)",KPS-CAN-012,"Legacy on Canvas - 8"" x 10"" landscape (0.75"" thickness)",,,,"",65.0,65.0,65.0,true,varied
+"Legacy on Canvas - Legacy on Canvas - 16"" x 20"" portrait (0.75"" thickness)",KPS-CAN-013,"Legacy on Canvas - 16"" x 20"" portrait (0.75"" thickness)",,,,"",95.0,95.0,95.0,true,varied
+"Legacy on Canvas - Legacy on Canvas - 16"" x 20"" landscape (0.75"" thickness)",KPS-CAN-014,"Legacy on Canvas - 16"" x 20"" landscape (0.75"" thickness)",,,,"",95.0,95.0,95.0,true,varied
+"Premium Print - Premium Prints - 11"" x 14"" linen",KPS-PRT-001,"Premium Prints - 11"" x 14"" linen",,,,"",10.0,10.0,10.0,true,varied
+"Premium Print - Premium Prints - 11"" x 14"" metallic",KPS-PRT-002,"Premium Prints - 11"" x 14"" metallic",,,,"",10.0,10.0,10.0,true,varied
+"Premium Print - Premium Prints - 12"" x 12"" linen",KPS-PRT-003,"Premium Prints - 12"" x 12"" linen",,,,"",10.0,10.0,10.0,true,varied
+"Premium Print - Premium Prints - 12"" x 12"" metallic",KPS-PRT-004,"Premium Prints - 12"" x 12"" metallic",,,,"",10.0,10.0,10.0,true,varied
+"Premium Print - Premium Prints - 4"" x 6"" linen",KPS-PRT-005,"Premium Prints - 4"" x 6"" linen",,,,"",0.65,0.65,0.65,true,varied
+"Premium Print - Premium Prints - 4"" x 6"" metallic",KPS-PRT-006,"Premium Prints - 4"" x 6"" metallic",,,,"",0.65,0.65,0.65,true,varied
+"Premium Print - Premium Prints - 5"" x 7"" linen",KPS-PRT-007,"Premium Prints - 5"" x 7"" linen",,,,"",1.6,1.6,1.6,true,varied
+"Premium Print - Premium Prints - 5"" x 7"" metallic",KPS-PRT-008,"Premium Prints - 5"" x 7"" metallic",,,,"",1.6,1.6,1.6,true,varied
+"Premium Print - Premium Prints - 8"" x 10"" linen",KPS-PRT-009,"Premium Prints - 8"" x 10"" linen",,,,"",4.0,4.0,4.0,true,varied
+"Premium Print - Premium Prints - 8"" x 10"" metallic",KPS-PRT-010,"Premium Prints - 8"" x 10"" metallic",,,,"",4.0,4.0,4.0,true,varied
+Christmas & Holiday Cards - Christmas & Holiday Cards - 5x7 landscape,KPS-MIS-003,Christmas & Holiday Cards,,24,pack_of,"",40.0,40.0,40.0,true,varied
+Legacy Mini-Book - Legacy Mini-Book - Accordion Book,KPS-MIS-004,Legacy Mini-Book - Accordion Book,,,,"",30.0,30.0,30.0,true,varied
+Shipping - Unlimited Expedited 2-Day Shipping,CHG-SUR-2DY,Unlimited Expedited 2-Day Shipping,,,,"",40.0,40.0,40.0,false,varied
+Shipping - Unlimited Express Overnight Shipping,CHG-SUR-1DY,Unlimited Express Overnight Shipping,,,,"",75.0,75.0,75.0,false,varied
+Videotape - First 2 hours to DVD,TRX-TPE-120,First 2 hours of Video,,1,two_hours_block,"",25.0,25.0,25.0,true,varied
+Videotape - First 2 hours to Cloud,TRX-TPC-120,First 2 hours to Video,,1,two_hours_block,"",25.0,25.0,25.0,true,varied
+Videotape - Additional 2 hours Block,TRX-TPE-A01,Extra 2 hours ,,1,two_hours_block,"",12.5,12.5,12.5,true,varied
+Videotape - Additional 2 hours Block,TRX-TPC-A01,Extra 2 hours,,1,two_hours_block,"",12.5,12.5,12.5,true,varied
+T-Shirt - Legacy Maker V Neck T Shirt,SWG-TEE-VBL,Legacy Maker V Neck T Shirt (Blue Size LG),,,,"",15.0,15.0,15.0,false,varied
+Tchotchke - Pens,SWG-PEN-WHT,Pens,,10,pack_of,"",5.0,5.0,5.0,false,varied
+Shipping - Supply Shipping & Handling,SWG-SUR-SHP,Supply Shipping & Handling,,,,"",5.0,5.0,5.0,false,varied
+Studio Scan - Studio Album transfer to CLOUD,STD-ALB-C00,Studio: Photo Albums & Scrapbooks,,24,pages,"",40.0,40.0,40.0,true,varied
+Studio Scan - Additional Pages,STD-ALB-C01,Studio: Extra Sides,,,pages,"",1.5,1.5,1.5,true,varied
+Shipping - Copy DVD Shipping & Handling,FML-SUR-SHP,Copy DVD Shipping & Handling,,,,"",5.99,5.99,5.99,false,varied
+"Metal Print & Stand Sets - Metal Print - 4""x4"" square",KPS-MTL-001,"Metal Print & Stand Set - 4""x4"" square",,,,"",35.0,35.0,35.0,true,varied
+"Metal Print & Stand Sets - Metal Print - 4""x6"" portrait",KPS-MTL-002,"Metal Print & Stand Set - 4""x6"" portrait",,,,"",35.0,35.0,35.0,true,varied
+"Metal Print & Stand Sets - Metal Print - 4""x6"" landscape",KPS-MTL-003,"Metal Print & Stand Set - 4""x6"" landscape",,,,"",35.0,35.0,35.0,true,varied
+"Metal Print & Stand Sets - Metal Print - 5""x7"" portrait",KPS-MTL-004,"Metal Print & Stand Set - 5""x7"" portrait",,,,"",40.0,40.0,40.0,true,varied
+"Metal Print & Stand Sets - Metal Print - 5""x7"" landscape",KPS-MTL-005,"Metal Print & Stand Set - 5""x7"" landscape",,,,"",40.0,40.0,40.0,true,varied
+"Metal Gallery Print & Décor Set - Metal Print - 8""x10"" portrait",KPS-MTL-006,"Metal Print & Decor Set - 8""x10"" portrait",,,,"",55.0,55.0,55.0,true,varied
+"Metal Gallery Print & Décor Set - Metal Print - 8""x10"" landscape",KPS-MTL-007,"Metal Print & Decor Set - 8""x10"" landscape",,,,"",55.0,55.0,55.0,true,varied
+"Metal Gallery Print & Décor Set - Metal Print - 8""x12"" portrait",KPS-MTL-008,"Metal Print & Decor Set - 8""x12"" portrait",,,,"",60.0,60.0,60.0,true,varied
+"Metal Gallery Print & Décor Set - Metal Print - 8""x12"" landscape",KPS-MTL-009,"Metal Print & Decor Set - 8""x12"" landscape",,,,"",60.0,60.0,60.0,true,varied
+"Metal Gallery Print - Metal Print - 11""x14"" portrait",KPS-MTL-010,"Metal Print - 11""x14"" portrait",,,,"",60.0,60.0,60.0,true,varied
+"Metal Gallery Print - Metal Print - 11""x14"" landscape",KPS-MTL-011,"Metal Print - 11""x14"" landscape",,,,"",60.0,60.0,60.0,true,varied
+"Metal Gallery Print - Metal Print - 12""x12"" square",KPS-MTL-012,"Metal Print - 12""x12"" square",,,,"",55.0,55.0,55.0,true,varied
+"Metal Gallery Print - Metal Print - 16""x20"" portrait",KPS-MTL-013,"Metal Print - 16""x20"" portrait",,,,"",90.0,90.0,90.0,true,varied
+"Metal Gallery Print - Metal Print - 16""x20"" landscape",KPS-MTL-014,"Metal Print - 16""x20"" landscape",,,,"",90.0,90.0,90.0,true,varied
+"Acrylic Block - Acrylic Photo Block - 4""x4"" square",KPS-ACR-001,"Acrylic Photo Block - 4""x4"" square",,,,"",40.0,40.0,40.0,true,varied
+"Acrylic Block - Acrylic Photo Block - 4""x6"" portrait",KPS-ACR-002,"Acrylic Photo Block - 4""x6"" portrait",,,,"",45.0,45.0,45.0,true,varied
+"Acrylic Block - Acrylic Photo Block - 4""x6"" landscape",KPS-ACR-003,"Acrylic Photo Block - 4""x6"" landscape",,,,"",45.0,45.0,45.0,true,varied
+"Acrylic Block - Acrylic Photo Block - 5""x7"" portrait",KPS-ACR-004,"Acrylic Photo Block - 5""x7"" portrait",,,,"",50.0,50.0,50.0,true,varied
+"Acrylic Block - Acrylic Photo Block - 5""x7"" landscape",KPS-ACR-005,"Acrylic Photo Block - 5""x7"" landscape",,,,"",50.0,50.0,50.0,true,varied
+"Acrylic Block - Acrylic Photo Block - 6""x6"" square",KPS-ACR-006,"Acrylic Photo Block - 6""x6"" square",,,,"",60.0,60.0,60.0,true,varied
+DVD Output - Redo DVD Copy,PRO-DVD-REO,DVD Redo Copy,,,discs,"",10.96,10.96,10.96,false,varied
+Blu-Ray Output - Redo Blu-Ray Copy,PRO-BRD-REO,Blu-Ray Redo Copy,,,discs,"",14.96,14.96,14.96,false,varied
+PAL Format - PAL Format,MIS-TPE-PAL,PAL Format,,,,"",0.0,0.0,0.0,false,varied
+Extra Tape Merged - Extra Tape Merged,MRG-TPE-ADD,Extra Tape Merged,,,,"",0.0,0.0,0.0,false,varied
+"Bamboo Gallery Block - Bamboo Gallery Block - 5""x7"" portrait",KPS-BMB-001,"Bamboo Gallery Block - 5""x7"" portrait",,,,"",12.0,50.0,50.0,true,varied
+"Bamboo Gallery Block - Bamboo Gallery Block - 5""x7"" landscape",KPS-BMB-002,"Bamboo Gallery Block - 5""x7"" landscape",,,,"",12.0,50.0,50.0,true,varied
+"Bamboo Gallery Block - Bamboo Gallery Block - 8""x10"" portrait",KPS-BMB-003,"Bamboo Gallery Block - 8""x10"" portrait",,,,"",16.5,70.0,70.0,true,varied
+"Bamboo Gallery Block - Bamboo Gallery Block - 8""x10"" landscape",KPS-BMB-004,"Bamboo Gallery Block - 8""x10"" landscape",,,,"",21.91,70.0,70.0,true,varied
+"Bamboo Gallery Block - Bamboo Gallery Block - 8""x12"" portrait",KPS-BMB-005,"Bamboo Gallery Block - 8""x12"" portrait",,,,"",21.91,80.0,80.0,true,varied
+"Bamboo Gallery Block - Bamboo Gallery Block - 8""x12"" landscape",KPS-BMB-006,"Bamboo Gallery Block - 8""x12"" landscape",,,,"",24.39,80.0,80.0,true,varied
+"Bamboo Gallery Block - Bamboo Gallery Block - 11""x14"" portrait",KPS-BMB-007,"Bamboo Gallery Block - 11""x14"" portrait",,,,"",24.39,90.0,90.0,true,varied
+"Bamboo Gallery Block - Bamboo Gallery Block - 11""x14"" landscape",KPS-BMB-008,"Bamboo Gallery Block - 11""x14"" landscape",,,,"",23.42,90.0,90.0,true,varied
+"Bamboo Gallery Block - Bamboo Gallery Block - 12""x12"" square",KPS-BMB-009,"Bamboo Gallery Block - 12""x12"" square",,,,"",23.42,90.0,90.0,true,varied
+"Bamboo Gallery Block - Bamboo Gallery Block - 16""x20"" portrait",KPS-BMB-010,"Bamboo Gallery Block - 16""x20"" portrait",,,,"",40.8,100.0,100.0,true,varied
+"Bamboo Gallery Block - Bamboo Gallery Block - 16""x20"" landscape",KPS-BMB-011,"Bamboo Gallery Block - 16""x20"" landscape",,,,"",40.8,100.0,100.0,true,varied
+Christmas & Holiday Ornaments - Bamboo Ornament - Winsome,KPS-ORN-001,Christmas & Holiday Ornaments - Bamboo Ornament - Winsome,,,,"",25.0,25.0,25.0,true,varied
+Christmas & Holiday Ornaments - Bamboo Ornament - Oval,KPS-ORN-002,Christmas & Holiday Ornaments - Bamboo Ornament - Oval,,,,"",25.0,25.0,25.0,true,varied
+Christmas & Holiday Ornaments - Bamboo Ornament - Monterey,KPS-ORN-003,Christmas & Holiday Ornaments - Bamboo Ornament - Monterey,,,,"",25.0,25.0,25.0,true,varied
+Christmas & Holiday Ornaments - Bamboo Ornament - Heart,KPS-ORN-004,Christmas & Holiday Ornaments - Bamboo Ornament - Heart,,,,"",25.0,25.0,25.0,true,varied
+Christmas & Holiday Ornaments - Bamboo Ornament - Tree,KPS-ORN-005,Christmas & Holiday Ornaments - Bamboo Ornament - Tree,,,,"",25.0,25.0,25.0,true,varied
+Christmas & Holiday Ornaments - Bamboo Ornament - Star,KPS-ORN-006,Christmas & Holiday Ornaments - Bamboo Ornament - Star,,,,"",25.0,25.0,25.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 5""x7"" portrait",KPS-MAP-111,"Maple Gallery Block - 5""x7"" portrait (no image border)",,,,"",45.0,45.0,45.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 5""x7"" portrait 1/4"" border",KPS-MAP-112,"Maple Gallery Block - 5""x7"" portrait (1/4"" border)",,,,"",45.0,45.0,45.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 5""x7"" portrait 1/2"" border",KPS-MAP-113,"Maple Gallery Block - 5""x7"" portrait (1/2"" border)",,,,"",45.0,45.0,45.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 5""x7"" landscape",KPS-MAP-121,"Maple Gallery Block - 5""x7"" landscape (no image border)",,,,"",45.0,45.0,45.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 5""x7"" landscape 1/4"" border",KPS-MAP-122,"Maple Gallery Block - 5""x7"" landscape (1/4"" border)",,,,"",45.0,45.0,45.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 5""x7"" landscape 1/2"" border",KPS-MAP-123,"Maple Gallery Block - 5""x7"" landscape (1/2"" border)",,,,"",45.0,45.0,45.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 8""x10"" portrait",KPS-MAP-211,"Maple Gallery Block - 8""x10"" portrait (no image border)",,,,"",65.0,65.0,65.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 8""x10"" portrait 1/4"" border",KPS-MAP-212,"Maple Gallery Block - 8""x10"" portrait (1/4"" border)",,,,"",65.0,65.0,65.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 8""x10"" portrait 1/2"" border",KPS-MAP-213,"Maple Gallery Block - 8""x10"" portrait (1/2"" border)",,,,"",65.0,65.0,65.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 8""x10"" landscape",KPS-MAP-221,"Maple Gallery Block - 8""x10"" landscape (no image border)",,,,"",65.0,65.0,65.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 8""x10"" landscape 1/4"" border",KPS-MAP-222,"Maple Gallery Block - 8""x10"" landscape (1/4"" border)",,,,"",65.0,65.0,65.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 8""x10"" landscape 1/2"" border",KPS-MAP-223,"Maple Gallery Block - 8""x10"" landscape (1/2"" border)",,,,"",65.0,65.0,65.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 8""x12"" portrait",KPS-MAP-311,"Maple Gallery Block - 8""x12"" portrait (no image border)",,,,"",75.0,75.0,75.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 8""x12"" portrait 1/4"" border",KPS-MAP-312,"Maple Gallery Block - 8""x12"" portrait (1/4"" border)",,,,"",75.0,75.0,75.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 8""x12"" portrait 1/2"" border",KPS-MAP-313,"Maple Gallery Block - 8""x12"" portrait (1/2"" border)",,,,"",75.0,75.0,75.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 8""x12"" landscape",KPS-MAP-321,"Maple Gallery Block - 8""x12"" landscape (no image border)",,,,"",75.0,75.0,75.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 8""x12"" landscape 1/4"" border",KPS-MAP-322,"Maple Gallery Block - 8""x12"" landscape (1/4"" border)",,,,"",75.0,75.0,75.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 8""x12"" landscape 1/2"" border",KPS-MAP-323,"Maple Gallery Block - 8""x12"" landscape (1/2"" border)",,,,"",75.0,75.0,75.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 11""x14"" portrait",KPS-MAP-411,"Maple Gallery Block - 11""x14"" portrait (no image border)",,,,"",85.0,85.0,85.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 11""x14"" portrait 1/4"" border",KPS-MAP-412,"Maple Gallery Block - 11""x14"" portrait (1/4"" border)",,,,"",85.0,85.0,85.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 11""x14"" portrait 1/2"" border",KPS-MAP-413,"Maple Gallery Block - 11""x14"" portrait (1/2"" border)",,,,"",85.0,85.0,85.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 11""x14"" landscape",KPS-MAP-421,"Maple Gallery Block - 11""x14"" landscape (no image border)",,,,"",85.0,85.0,85.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 11""x14"" landscape 1/4"" border",KPS-MAP-422,"Maple Gallery Block - 11""x14"" landscape (1/4"" border)",,,,"",85.0,85.0,85.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 11""x14"" landscape 1/2"" border",KPS-MAP-423,"Maple Gallery Block - 11""x14"" landscape (1/2"" border)",,,,"",85.0,85.0,85.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 12""x12"" square",KPS-MAP-511,"Maple Gallery Block - 12""x12"" square (no image border)",,,,"",85.0,85.0,85.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 12""x12"" square 1/4"" border",KPS-MAP-512,"Maple Gallery Block - 12""x12"" square (1/4"" border)",,,,"",85.0,85.0,85.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 12""x12"" square 1/2"" border",KPS-MAP-513,"Maple Gallery Block - 12""x12"" square (1/2"" border)",,,,"",85.0,85.0,85.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 16""x20"" portrait",KPS-MAP-611,"Maple Gallery Block - 16""x20"" portrait (no image border)",,,,"",95.0,95.0,95.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 16""x20"" portrait 1/4"" border",KPS-MAP-612,"Maple Gallery Block - 16""x20"" portrait (1/4"" border)",,,,"",95.0,95.0,95.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 16""x20"" portrait 1/2"" border",KPS-MAP-613,"Maple Gallery Block - 16""x20"" portrait (1/2"" border)",,,,"",95.0,95.0,95.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 16""x20"" landscape",KPS-MAP-621,"Maple Gallery Block - 16""x20"" landscape (no image border)",,,,"",95.0,95.0,95.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 16""x20"" landscape 1/4"" border",KPS-MAP-622,"Maple Gallery Block - 16""x20"" landscape (1/4"" border)",,,,"",95.0,95.0,95.0,true,varied
+"Maple Gallery Block - Maple Gallery Block - 16""x20"" landscape 1/2"" border",KPS-MAP-623,"Maple Gallery Block - 16""x20"" landscape (1/2"" border)",,,,"",95.0,95.0,95.0,true,varied
+"Photo Charm - Photo Charm - Rectangle 1""x2""",KPS-JWL-001,"Photo Charm - Rectangle 1""x2""",,,,"",30.0,30.0,30.0,true,varied
+"Photo Charm - Photo Charm - Small Square 0.75""",KPS-JWL-002,"Photo Charm - Small Square 0.75""",,,,"",25.0,25.0,25.0,true,varied
+"Photo Charm - Photo Charm - Square 1""",KPS-JWL-003,"Photo Charm - Square 1""",,,,"",30.0,30.0,30.0,true,varied
+"Photo Charm - Photo Charm - Small Circle 0.75""",KPS-JWL-004,"Photo Charm - Small Circle 0.75""",,,,"",25.0,25.0,25.0,true,varied
+"Photo Charm - Photo Charm - Circle 1""",KPS-JWL-005,"Photo Charm - Circle 1""",,,,"",30.0,30.0,30.0,true,varied
+Christmas & Holiday Cards - Christmas & Holiday Cards - 5x7 portrait,KPS-MIS-005,Christmas & Holiday Cards - 5x7 portrait,,24,pack_of,"",40.0,40.0,40.0,true,varied
+"Premium Print - Premium Prints - 11"" x 14"" deep matte",KPS-PRM-011,"Premium Prints - 11"" x 14"" deep matte",,,,"",10.0,10.0,10.0,true,varied
+"Premium Print - Premium Prints - 12"" x 12"" deep matte",KPS-PRM-012,"Premium Prints - 12"" x 12"" deep matte",,,,"",10.0,10.0,10.0,true,varied
+"Premium Print - Premium Prints - 4"" x 6"" deep matte",KPS-PRM-013,"Premium Prints - 4"" x 6"" deep matte",,,,"",0.65,0.65,0.65,true,varied
+"Premium Print - Premium Prints - 5"" x 7"" deep matte",KPS-PRM-014,"Premium Prints - 5"" x 7"" deep matte",,,,"",1.6,1.6,1.6,true,varied
+"Premium Print - Premium Prints - 8"" x 10"" deep matte",KPS-PRM-015,"Premium Prints - 8"" x 10"" deep matte",,,,"",4.0,4.0,4.0,true,varied
+"Premium Print - Premium Prints - 8"" x 12"" linen",KPS-PRT-016,"Premium Prints - 8"" x 12"" linen",,,,"",6.0,6.0,6.0,true,varied
+"Premium Print - Premium Prints - 8"" x 12"" metallic",KPS-PRT-017,"Premium Prints - 8"" x 12"" metallic",,,,"",6.0,6.0,6.0,true,varied
+"Premium Print - Premium Prints - 8"" x 12"" deep matte",KPS-PRM-018,"Premium Prints - 8"" x 12"" deep matte",,,,"",6.0,6.0,6.0,true,varied
+Host Collateral - Host Worksheets,EMP-SUP-HST,Host Worksheets,,10,pack_of,"",2.0,2.0,2.0,false,varied
+Host Collateral - Cue Cards,SWG-CUE-001,Cue Cards,,12,pack_of,"",2.0,2.0,2.0,false,varied
+Order Forms - Studio Digitization Order Forms,EMP-SUP-STD,Studio Digitization Order Forms,,25,pack_of,"",2.0,2.0,2.0,false,varied
+Studio Bundle - Large Studio Bundle,EMP-STD-001,Incoming Studio Order Pack,,1,bundle,"",0.0,0.0,0.0,false,varied
+Studio Bundle - Small Studio Bundle,EMP-STD-002,Outgoing Studio Order Pack,,1,bundle,"",0.0,0.0,0.0,false,varied
+LR Customer Catalog - Catalog - Fall/Winter (2017),SWG-CTG-001,Catalog Spring/Summer,,25,pack_of,"",15.0,15.0,15.0,false,varied
+Tchotchke - Flower Pens - Plum Blossom Shape,SWG-PEN-002,Flower Pens - Plum Blossom Shape,,3,pack_of,"",5.0,5.0,5.0,false,varied
+Tchotchke - Flower Pens - Narcissus Flower,SWG-PEN-003,Flower Pens - Narcissus Flower,,5,pack_of,"",5.0,5.0,5.0,false,varied
+Tchotchke - Camera Charms,SWG-CHM-001,Camera Charms,,5,pack_of,"",10.0,10.0,10.0,false,varied
+Tchotchke - Legacy Maker Acrylic Tumblers,SWG-TBL-HRT,Legacy Maker Acrylic Tumblers,,,,"",10.0,10.0,10.0,false,varied
+Sports Shirt - Legacy Maker New Balance Sports Shirt - Large,SWG-NBL-00L,Legacy Maker New Balance Sports Shirt - Large,,,,"",15.0,15.0,15.0,false,varied
+Sports Shirt - Legacy Maker New Balance Sports Shirt - XX-Large,SWG-NBL-2XL,Legacy Maker New Balance Sports Shirt - XX-Large,,,,"",15.0,15.0,15.0,false,varied
+Reunion Shirt - Reunion '17 T-Shirt - XX-Large,SWG-VBL-2XL,Reunion '17 T-Shirt - XX-Large,,,,"",8.0,8.0,8.0,false,varied
+Reunion Shirt - Reunion '17 T-Shirt - XXX-Large,SWG-VBL-3XL,Reunion '17 T-Shirt - XXX-Large,,,,"",8.0,8.0,8.0,false,varied
+Blouse - Blue Legacy Maker Button Up Blouse - Large,SWG-BSB-00L,Blue Legacy Maker Button Up Blouse - Large,,,,"",25.0,25.0,25.0,false,varied
+Blouse - Blue Legacy Maker Button Up Blouse - X-Large,SWG-BSB-0XL,Blue Legacy Maker Button Up Blouse - X-Large,,,,"",25.0,25.0,25.0,false,varied
+Blouse - Blue Legacy Maker Button Up Blouse - XX-Large,SWG-BSB-2XL,Blue Legacy Maker Button Up Blouse - XX-Large,,,,"",25.0,25.0,25.0,false,varied
+Blouse - Blue Legacy Maker Button Up Blouse - XXX-Large,SWG-BSB-3XL,Blue Legacy Maker Button Up Blouse - XXX-Large,,,,"",25.0,25.0,25.0,false,varied
+Polo Shirt - Black Studio Polo Shirt - Large,SWG-PBL-00L,Black Studio Polo Shirt - Large,,,,"",25.0,25.0,25.0,false,varied
+Polo Shirt - Black Studio Polo Shirt - X-Large,SWG-PBL-0XL,Black Studio Polo Shirt - X-Large,,,,"",25.0,25.0,25.0,false,varied
+Polo Shirt - Black Studio Polo Shirt - XX-Large,SWG-PBL-2XL,Black Studio Polo Shirt - XX-Large,,,,"",25.0,25.0,25.0,false,varied
+Polo Shirt - Black Studio Polo Shirt - XXX-Large,SWG-PBL-3XL,Black Studio Polo Shirt - XXX-Large,,,,"",25.0,25.0,25.0,false,varied
+USB Output - USB Copy,ADD-USB-CPY,USB Copy,,,,"",12.5,12.5,12.5,true,varied
+Shipping - MMK USPS Standard,MMK-SHP-STD,Standard [7-10 business days],,,,"",15.0,15.0,15.0,false,varied
+Shipping - MMK UPS Expedited,MMK-SHP-EXD,Expedited [2 business days],,,,"",30.0,30.0,30.0,false,varied
+Shipping - MMK UPS Express,MMK-SHP-EXP,Express [Overnight],,,,"",45.0,45.0,45.0,false,varied
+Miscellaneous Supplies - Miscellaneous supplies,EMP-SUP-MSC,Miscellaneous Supplies,,,,"",0.0,0.0,0.0,false,varied
+Starter Kit - Legacy Launch Kit - Pro Services,TRX-STRT-002,Legacy Launch Kit - Pro Services,,,,"",300.0,300.0,300.0,false,varied
